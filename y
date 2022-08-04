@@ -1,1 +1,1 @@
-python3 -m hecker
+python3 -m Checker
