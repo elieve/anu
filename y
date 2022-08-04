@@ -1,1 +1,1 @@
-python3 -m CC-Checker
+python3 -m hecker
